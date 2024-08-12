@@ -10,8 +10,7 @@ def custom_write(file_name, strings):
 
 
 def main():
-    # Пример результата выполнения программы:
-    # Пример выполняемого кода:
+  
     info = [
         'Text for tell.',
         'Используйте кодировку utf-8.',
